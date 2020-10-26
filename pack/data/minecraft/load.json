@@ -1,0 +1,6 @@
+{
+	"values": [
+		"spectatordimensionswitcher:load",
+		"spectatordimensionswitcher:tick"
+	]
+}
